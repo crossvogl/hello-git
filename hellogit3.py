@@ -1,1 +1,5 @@
-print("Hello Git # 2")
+<<<<<<< HEAD
+=======
+print('new line')
+print('version 3')
+>>>>>>> main
