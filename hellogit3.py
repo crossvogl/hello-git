@@ -1,2 +1,1 @@
-print('new line')
-print('version 3')
+print('hello git 3 version main')
